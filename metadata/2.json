@@ -1,0 +1,17 @@
+{
+    "name": "Mycollection #2",
+    "description": "Introducing the future of Cuteness. A Teddybear Token. Floating in Space. Save them by getting this NFT. Cuddle each one of them. You need them. Buy them now. ",
+    "image": "https://crimson-recent-gibbon-713.mypinata.cloud/ipfs/QmPd4TiGWKZGAa9MhWjVvEfb2ojD4vajXH1uH4LWm5egAP/2.jpg",
+    "external_url": "https://gateway.pinata.cloud/ipfs/",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "butterfly"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
+
